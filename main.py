@@ -6,7 +6,7 @@ from kivy.uix.label import Label
 from kivy.uix.button import Button
 from kivy.uix.screenmanager import ScreenManager, Screen
 
-from loadTest import load_data
+from loadText import load_data
 from numpy.random import choice
 from functools import partial
 
